@@ -1,0 +1,1 @@
+const myFirstVariable = "Hello World";
